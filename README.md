@@ -210,6 +210,11 @@ Data Cleaning Steps
 
 *Created indexes for faster query performance.
 
+## Author
+Godspower Iheanacho
+Data Analyst | SQL Enthusiast | BI Developer
+[LinkedIn](https://www.linkedin.com/in/godspower-iheanacho-a71829217/)
+
 
 
 	
